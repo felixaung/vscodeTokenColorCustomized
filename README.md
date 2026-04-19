@@ -35,14 +35,4 @@ textmate scopes	                        storage.modifier.java
 ```
 
 
-``` json
-
-      {
-        "scope": ["keyword"],
-        "settings": {
-          "foreground": "#f59043",
-          "fontStyle": "bold"
-        }
-      },
-```
 
